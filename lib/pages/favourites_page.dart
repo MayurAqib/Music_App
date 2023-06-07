@@ -30,7 +30,7 @@ class _FavoritePageState extends State<FavoritePage> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                const SizedBox(height: 50),
+                const SizedBox(height: 70),
 
                 //todo: Row of icons
                 Row(
